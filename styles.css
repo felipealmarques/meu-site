@@ -1,0 +1,27 @@
+/* Barra fixa no topo */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  z-index: 1000;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Espaço para conteúdo não ficar escondido */
+body {
+  padding-top: 60px;
+}
+
+/* Destaques nos títulos */
+h1, h2 {
+  margin-top: 1.5em;
+}
+
+/* Links nos projetos */
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}

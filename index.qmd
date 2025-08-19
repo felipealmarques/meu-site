@@ -1,0 +1,14 @@
+---
+title: "Início"
+---
+
+# Felipe Marques  
+**Estatístico pela Unicamp · Trainee em Ciência de Dados na Bradesco Seguros**
+
+---
+
+Sou apaixonado por **modelagem estatística**, séries temporais e **machine learning aplicado a seguros e finanças**. Este site é um espaço para mostrar meus projetos, estudos e reflexões na área de dados.
+
+- Explore meus **Projetos** abaixo  
+- Saiba mais **Sobre** minha formação e trajetória  
+- Entre em **Contato** para conectar ou discutir ideias

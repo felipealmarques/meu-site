@@ -1,0 +1,14 @@
+---
+title: "Sobre"
+---
+
+# Sobre mim
+
+Graduado em Estatística pela Unicamp, com iniciação científica focada em modelos de séries temporais para previsão de volatilidade. Atualmente sou Trainee em Ciência de Dados na Bradesco Seguros, onde aplico técnicas de machine learning em problemas reais de negócio.
+
+### Interesses principais:
+
+- Modelagem estatística avançada  
+- Séries temporais e previsão  
+- Machine learning aplicado a seguros e finanças  
+- Visualização de dados e storytelling interativo
